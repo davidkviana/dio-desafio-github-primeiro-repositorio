@@ -1,0 +1,17 @@
+Segue a lista de cursos recomendados DIO:
+
+Introdução ao Git e ao GitHub
+https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/browse
+
+Introdução ao MongoDB e Banco de Dados NoSQL
+https://web.digitalinnovation.one/course/introducao-ao-mongodb-e-bancos-de-dados-nosql/learning/d8c1eb33-27f5-44f9-a57c-68d65fcac8da
+
+Introdução ao framework Spring Boot
+https://web.digitalinnovation.one/course/spring-boot/learning/3aac94e7-e502-41ca-845d-9b77c9eaecfe?back=/browse
+
+Introdução a orquestração de contêineres com Docker
+https://web.digitalinnovation.one/course/introducao-a-orquestracao-de-conteineres-com-docker/learning/c85d8e63-3431-4769-8d8d-39b019ad979f?back=/browse
+
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+https://web.digitalinnovation.one/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d
+
